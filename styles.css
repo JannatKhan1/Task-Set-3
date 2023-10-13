@@ -1,0 +1,23 @@
+h2 {
+    text-align: center;
+    margin: 2px;
+}
+
+table {
+    padding: 1px;
+    margin: 1px;
+    margin-top: 10px;
+    border: 10px solid darkgreen;
+}
+
+th {
+    text-align: center;
+    padding: 1px;
+    margin: 1px;
+}
+
+td {
+    text-align: center;
+    padding: 1px;
+    margin: 1px;
+}
